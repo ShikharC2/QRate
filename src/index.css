@@ -1,0 +1,11 @@
+body{
+  font-family: "Lexand",sans-serif;
+  line-height: 1.5;
+  font-weight: 300;
+  font-style: normal;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  transition: 1s ease;
+
+}
